@@ -22,8 +22,8 @@
 #define CAT_H
 
 /* Flags */
-#define SHOW_ENDS       1
 
+#define maneendra
 /* Check flag macros */
 #define CHKF_SHOW_ENDS(flags) ((flags & SHOW_ENDS) == SHOW_ENDS)
 
